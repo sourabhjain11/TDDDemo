@@ -1,6 +1,6 @@
 package com.sj.demo;
 
-public class SimplestDemoOne
+public class SimpleSum implements ISimpleSum
 {
     /*
     //before implementation
